@@ -45,11 +45,10 @@ Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro 
 
 <!-- Todo -->
 Need to add these resource links
-1. [text](https://visualgo.net/en) 
-2. [text](https://refactoring.guru/design-patterns)
-3. [text](https://gitbybit.com/)
-4. [text](https://anthropic.skilljar.com/) 
-5. [text](https://www.patterns.dev/)
-6. [text](https://overthewire.org/wargames/bandit/bandit0.html)
-
+1. [visualgo](https://visualgo.net/en) 
+2. [refactoring.guru](https://refactoring.guru/design-patterns)
+3. [gitbybit](https://gitbybit.com/)
+4. [anthropic.skilljar](https://anthropic.skilljar.com/) 
+5. [patterns.dev](https://www.patterns.dev/)
+6. [overthewire -> wargames](https://overthewire.org/wargames/bandit/bandit0.html)
 
